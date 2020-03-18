@@ -1,0 +1,13 @@
+{RU}
+Есть TCP-сервер со своим протоколом нужно разобраться, 
+как с ним можно работать. Непонятно совсем, что он умеет делать и на каком порту висит. 
+А еще говорят в нем есть и уязвимость, даже прям RCE. 
+Вроде как найти легко и еще эксплоит бы к ней  написать.
+{RU}
+
+{EN}
+There is a TCP-server with a custom protocol. 
+Could you help to figure it out? What can it do and what port should I connect to? 
+Stop. It's told to have a vulnerability. Not just a DoS but a real RCE! 
+It is simple to find and write an exploit. Looking forward to your help.
+{EN}
