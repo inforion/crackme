@@ -1,0 +1,11 @@
+{RU}
+Хочу поразбирать ядро линукса по АРМ. Вероятно, там есть дополнительные функции.
+Можно попробовать через таблицу символов поименовать все функции, но нужно знание IDAPython.
+Да, база у ядра 0xC0008000, а табличка, вроде, в 0xC0260000.
+{RU}
+
+{EN}
+Hi! I wanna hack into Linux kernel with some additional functions. This kernel is under ARMv6.
+We may try to get into it through Linux symbol table, IDAPython knowledge is essential. 
+Kernel base is 0xC0008000 and symbol table at 0xC0260000.
+{EN}
