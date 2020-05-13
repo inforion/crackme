@@ -1,0 +1,10 @@
+{RU}
+Выкачал прошивку из микроконтроллера STM32. Общается по UART'у хочу понять, 
+что она делает и протокол её общения. Может быть даже в ней найдутся баги.
+{RU}
+
+{EN}
+Downloaded firmware from STM32 microcontroller. It can talk using UART. 
+I want to understand what this firmware can do. Also reversing the protocol would be great! 
+May be you can find bugs in it.
+{EN}
